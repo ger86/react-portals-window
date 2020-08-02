@@ -11,7 +11,6 @@ function App() {
   }
 
   function incrementCounter() {
-    console.log('hola');
     setCounter((counter) => counter + 1);
   }
 
